@@ -1,5 +1,5 @@
 ## 💫 About Me:
-Research Engineer at Samsung R&D, Delhi<br>B.Tech Graduate in Artificial Intelligence and Data Science from Indian Institute of Technology Jodhpur
+Software Engineer at Samsung R&D, Delhi<br>B.Tech Graduate in Artificial Intelligence and Data Science from Indian Institute of Technology Jodhpur
 
 
 ### 🌐 Socials:
